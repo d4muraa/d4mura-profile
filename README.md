@@ -6,8 +6,8 @@
 
 *Learning new things, trying stuff out, making mistakes, and figuring things out along the way.*
 
-[![GitHub followers](https://img.shields.io/github/followers/Kyaguya?style=flat&logo=github&label=Followers)](https://github.com/Kyaguya)
-[![Profile views](https://komarev.com/ghpvc/?username=Kyaguya&style=flat&color=blue)](https://github.com/Kyaguya)
+[![GitHub followers](https://img.shields.io/github/followers/d4muraa?style=flat&logo=github&label=Followers)](https://github.com/d4muuraa)
+[![Profile views](https://komarev.com/ghpvc/?username=d4muraa&style=flat&color=blue)](https://github.com/d4muraa)
 
 </div>
 
@@ -56,8 +56,8 @@ Some things might be simple, unfinished, or a little messy. I'm here to learn, i
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kyaguya&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyaguya&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=d4muraa&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4muraa&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
